@@ -1,0 +1,40 @@
+{
+  "mappings": [
+    {
+      "path": "tools/importer/mappings/nav.json"
+    },
+    {
+      "path": "tools/importer/mappings/footer.json"
+    },
+    {
+      "path": "tools/importer/mappings/index.json"
+    },
+    {
+      "path": "tools/importer/mappings/media-releases.json"
+    },
+    {
+      "path": "tools/importer/mappings/roo-tales.json"
+    },
+    {
+      "path": "tools/importer/mappings/qantas-responds.json"
+    },
+    {
+      "path": "tools/importer/mappings/speeches.json"
+    },
+    {
+      "path": "tools/importer/mappings/gallery.json"
+    },
+    {
+      "path": "tools/importer/mappings/media-enquiries.json"
+    },
+    {
+      "path": "tools/importer/mappings/media-releases/qantas-launches-major-sale-with-one-million-discounted-business-and-economy-seats-across-60-destinations.json"
+    },
+    {
+      "path": "tools/importer/mappings/roo-tales/more-connected-than-ever-before-a-fast-and-free-history-of-qantas-wi-fi.json"
+    },
+    {
+      "path": "tools/importer/mappings/speeches/remarks-from-ceo-vanessa-hudson-agm-2024.json"
+    }
+  ]
+}

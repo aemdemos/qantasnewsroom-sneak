@@ -1,0 +1,84 @@
+{
+  "url": "https://www.qantasnewsroom.com.au/roo-tales/",
+  "browserOptions": {
+    "width": 1280,
+    "disableJS": false,
+    "adBlocker": true,
+    "gdprBlocker": true,
+    "delay": 0,
+    "screenshot": false
+  },
+  "autoDetect": true,
+  "template": {
+    "raw": "/html[1]/body[1]/div[2]\n  - /html[1]/body[1]/div[2]/div[1]\n  - /html[1]/body[1]/div[2]/div[2]\n  /html[1]/body[1]/div[3]/header[1]\n  - /html[1]/body[1]/div[3]/header[1]/div[1]/div[1]/a[1]\n  - /html[1]/body[1]/div[3]/header[1]/div[1]/nav[1]/ul[1]\n  /html[1]/body[1]/div[3]/div[1]\n  - /html[1]/body[1]/div[3]/div[1]/div[1]\n  - /html[1]/body[1]/div[3]/div[1]/div[2]\n  - /html[1]/body[1]/div[3]/div[1]/div[3]\n  /html[1]/body[1]/footer[1]",
+    "hash": 1181401048
+  },
+  "pageHeight": 913,
+  "mapping": [
+    {
+      "id": 2,
+      "path": "/roo-tales/index",
+      "sections": [
+        {
+          "id": "2-1",
+          "blocks": [
+            {
+              "id": "box-id-2089301035",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1200,
+              "height": 83,
+              "xpath": "/html[1]/body[1]/div[3]/header[1]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/header[1]/div[1]/div[1]/a[1]",
+                  "xpathWithDetails": "/html[@class=\"wf-europa-n7-active wf-europa-n3-active wf-europa-n4-active wf-active\"]/body[@class=\"archive post-type-archive post-type-archive-roo-tales\"]/div[@class=\"container\"]/div[@class=\"header-nav\"]/div[@class=\"nav-collapse\"]/a[@class=\"logo\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/header[1]/div[1]/nav[1]/ul[1]",
+                  "xpathWithDetails": "/html[@class=\"wf-europa-n7-active wf-europa-n3-active wf-europa-n4-active wf-active\"]/body[@class=\"archive post-type-archive post-type-archive-roo-tales\"]/div[@class=\"container\"]/div[@class=\"header-nav\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "x": 40,
+              "y": 157,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-rxxxrt-2089301035"
+            },
+            {
+              "id": "box-id-83627365",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1200,
+              "height": 1392,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"main\")"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"sidebar\")"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]",
+                  "xpathWithDetails": "/html[@class=\"wf-europa-n7-active wf-europa-n3-active wf-europa-n4-active wf-active\"]/body[@class=\"archive post-type-archive post-type-archive-roo-tales\"]/div[@class=\"container\"]/div[@class=\"content-wrap roo-tales-content-wrap\"]/div[@class=\"page-content\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 2
+              },
+              "x": 40,
+              "y": 240,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-rxxxrt-83627365"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

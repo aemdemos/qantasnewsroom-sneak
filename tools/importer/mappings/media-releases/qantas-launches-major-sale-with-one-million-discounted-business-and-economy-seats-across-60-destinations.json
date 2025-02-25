@@ -1,0 +1,901 @@
+{
+  "url": "https://www.qantasnewsroom.com.au/media-releases/qantas-launches-major-sale-with-one-million-discounted-business-and-economy-seats-across-60-destinations/",
+  "browserOptions": {
+    "width": 1280,
+    "disableJS": false,
+    "adBlocker": true,
+    "gdprBlocker": true,
+    "delay": 0,
+    "screenshot": false
+  },
+  "autoDetect": true,
+  "template": {
+    "raw": "/html[1]/body[1]/div[2]\n  - /html[1]/body[1]/div[2]/div[1]\n  - /html[1]/body[1]/div[2]/div[2]\n  /html[1]/body[1]/div[3]/header[1]\n  - /html[1]/body[1]/div[3]/header[1]/div[1]/div[1]/a[1]\n  - /html[1]/body[1]/div[3]/header[1]/div[1]/nav[1]/ul[1]\n  /html[1]/body[1]/div[3]/div[1]/div[1]\n  - /html[1]/body[1]/div[3]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[3]/div[1]/div[1]/div[2]/div[1]\n  - /html[1]/body[1]/div[3]/div[1]/div[1]/div[2]\n  - /html[1]/body[1]/div[3]/div[1]/div[1]/div[3]\n  /html[1]/body[1]/div[3]/div[1]/div[2]\n  - /html[1]/body[1]/div[3]/div[1]/div[2]/div[1]/h2[1]\n  - /html[1]/body[1]/div[3]/div[1]/div[2]/div[1]/ul[1]\n  /html[1]/body[1]/footer[1]",
+    "hash": -1552206378
+  },
+  "pageHeight": 913,
+  "mapping": [
+    {
+      "id": 2,
+      "path": "/media-releases/qantas-launches-major-sale-with-one-million-discounted-business-and-economy-seats-across-60-destinations/index",
+      "sections": [
+        {
+          "id": "2-1",
+          "blocks": [
+            {
+              "id": "box-id-2089301035",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1200,
+              "height": 83,
+              "xpath": "/html[1]/body[1]/div[3]/header[1]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/header[1]/div[1]/div[1]/a[1]",
+                  "xpathWithDetails": "/html[@class=\"wf-europa-n7-active wf-europa-n3-active wf-europa-n4-active wf-active\"]/body[@class=\"post-template-default single single-post postid-9071 single-format-standard\"]/div[@class=\"container\"]/div[@class=\"header-nav\"]/div[@class=\"nav-collapse\"]/a[@class=\"logo\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/header[1]/div[1]/nav[1]/ul[1]",
+                  "xpathWithDetails": "/html[@class=\"wf-europa-n7-active wf-europa-n3-active wf-europa-n4-active wf-active\"]/body[@class=\"post-template-default single single-post postid-9071 single-format-standard\"]/div[@class=\"container\"]/div[@class=\"header-nav\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "x": 40,
+              "y": 157,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-b89j4x-2089301035"
+            },
+            {
+              "id": "box-id--83237627",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 790,
+              "height": 218,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 40,
+              "y": 285,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-b89j4x-83237627"
+            },
+            {
+              "id": "box-id--1467159295",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 315,
+              "height": 38,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[2]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 33,
+              "y": 521,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-b89j4x-1467159295"
+            },
+            {
+              "id": "box-id--83237596",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 790,
+              "height": 49,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[2]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 40,
+              "y": 523,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-b89j4x-83237596"
+            },
+            {
+              "id": "box-id--1115913533",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 790,
+              "height": 60,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/p[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 40,
+              "y": 572,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-b89j4x-1115913533"
+            },
+            {
+              "id": "box-id--1115913502",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 790,
+              "height": 83,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/p[2]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 40,
+              "y": 633,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-b89j4x-1115913502"
+            },
+            {
+              "id": "box-id--1115913471",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 790,
+              "height": 60,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/p[3]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 40,
+              "y": 716,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-b89j4x-1115913471"
+            },
+            {
+              "id": "box-id--1115913440",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 790,
+              "height": 60,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/p[4]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 40,
+              "y": 777,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-b89j4x-1115913440"
+            },
+            {
+              "id": "box-id--1115913409",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 790,
+              "height": 60,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/p[5]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 40,
+              "y": 838,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-b89j4x-1115913409"
+            },
+            {
+              "id": "box-id--1115913378",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 790,
+              "height": 105,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/p[6]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 40,
+              "y": 899,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-b89j4x-1115913378"
+            },
+            {
+              "id": "box-id-61971621",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 790,
+              "height": 1952,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[1]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[1]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[1]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[2]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[2]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[2]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[3]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[3]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[3]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[4]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[4]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[4]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[5]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[5]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[5]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[6]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[6]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[6]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[7]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[7]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[7]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[8]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[8]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[8]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[9]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[9]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[9]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[10]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[10]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[10]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[11]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[11]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[11]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[12]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[12]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[12]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[13]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[13]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[13]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[14]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[14]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[14]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[15]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[15]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[15]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[16]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[16]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[16]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[17]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[17]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[17]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[18]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[18]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[18]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[19]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[19]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[19]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[20]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[20]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[20]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[21]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[21]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[21]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[22]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[22]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[22]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[23]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[23]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[23]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[24]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[24]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[24]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[25]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[25]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[25]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[26]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[26]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[26]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[27]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[27]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[27]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[28]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[28]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[28]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[29]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[29]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[29]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[30]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[30]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[30]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[31]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[31]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[31]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[32]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[32]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[1]/tbody[1]/tr[32]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 3,
+                "numRows": 32
+              },
+              "x": 40,
+              "y": 1004,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-b89j4x-61971621"
+            },
+            {
+              "id": "box-id-61971652",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 790,
+              "height": 1281,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[1]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[1]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[1]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[2]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[2]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[2]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[3]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[3]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[3]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[4]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[4]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[4]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[5]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[5]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[5]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[6]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[6]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[6]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[7]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[7]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[7]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[8]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[8]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[8]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[9]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[9]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[9]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[10]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[10]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[10]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[11]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[11]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[11]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[12]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[12]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[12]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[13]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[13]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[13]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[14]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[14]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[14]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[15]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[15]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[15]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[16]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[16]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[16]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[17]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[17]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[17]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[18]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[18]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[18]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[19]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[19]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[19]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[20]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[20]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[20]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[21]/td[1]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[21]/td[2]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]/table[2]/tbody[1]/tr[21]/td[3]",
+                  "xpathWithDetails": "id(\"main\")/div[@class=\"page-content single-page-content\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 3,
+                "numRows": 21
+              },
+              "x": 40,
+              "y": 2986,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-b89j4x-61971652"
+            },
+            {
+              "id": "box-id-2074746772",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 321,
+              "height": 35,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[2]/div[1]/h2[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 888,
+              "y": 285,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-b89j4x-2074746772"
+            },
+            {
+              "id": "box-id-2088480423",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 321,
+              "height": 272,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[2]/div[1]/ul[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 888,
+              "y": 320,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-b89j4x-2088480423"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
