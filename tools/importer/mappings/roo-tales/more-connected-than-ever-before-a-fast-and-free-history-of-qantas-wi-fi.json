@@ -1,0 +1,151 @@
+{
+  "url": "https://www.qantasnewsroom.com.au/roo-tales/more-connected-than-ever-before-a-fast-and-free-history-of-qantas-wi-fi/",
+  "browserOptions": {
+    "width": 1280,
+    "disableJS": false,
+    "adBlocker": true,
+    "gdprBlocker": true,
+    "delay": 0,
+    "screenshot": false
+  },
+  "autoDetect": true,
+  "template": {
+    "raw": "/html[1]/body[1]/div[2]\n  - /html[1]/body[1]/div[2]/div[1]\n  - /html[1]/body[1]/div[2]/div[2]\n  /html[1]/body[1]/div[3]/header[1]\n  - /html[1]/body[1]/div[3]/header[1]/div[1]/div[1]/a[1]\n  - /html[1]/body[1]/div[3]/header[1]/div[1]/nav[1]/ul[1]\n  /html[1]/body[1]/div[3]/div[1]/div[1]\n  - /html[1]/body[1]/div[3]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[3]/div[1]/div[1]/div[2]\n  - /html[1]/body[1]/div[3]/div[1]/div[1]/div[3]\n  /html[1]/body[1]/div[3]/div[1]/div[2]\n  - /html[1]/body[1]/div[3]/div[1]/div[2]/div[1]\n  - /html[1]/body[1]/div[3]/div[1]/div[2]/div[2]\n  /html[1]/body[1]/footer[1]",
+    "hash": -1783857394
+  },
+  "pageHeight": 913,
+  "mapping": [
+    {
+      "id": 2,
+      "path": "/roo-tales/more-connected-than-ever-before-a-fast-and-free-history-of-qantas-wi-fi/index",
+      "sections": [
+        {
+          "id": "2-1",
+          "blocks": [
+            {
+              "id": "box-id-2089301035",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1200,
+              "height": 83,
+              "xpath": "/html[1]/body[1]/div[3]/header[1]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/header[1]/div[1]/div[1]/a[1]",
+                  "xpathWithDetails": "/html[@class=\"wf-europa-n7-active wf-europa-n3-active wf-europa-n4-active wf-active\"]/body[@class=\"roo-tales-template-default single single-roo-tales postid-8877\"]/div[@class=\"container\"]/div[@class=\"header-nav\"]/div[@class=\"nav-collapse\"]/a[@class=\"logo\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/header[1]/div[1]/nav[1]/ul[1]",
+                  "xpathWithDetails": "/html[@class=\"wf-europa-n7-active wf-europa-n3-active wf-europa-n4-active wf-active\"]/body[@class=\"roo-tales-template-default single single-roo-tales postid-8877\"]/div[@class=\"container\"]/div[@class=\"header-nav\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "x": 40,
+              "y": 157,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-kywt95-2089301035"
+            },
+            {
+              "id": "box-id--83237627",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 790,
+              "height": 126,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 40,
+              "y": 285,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-kywt95-83237627"
+            },
+            {
+              "id": "box-id--83237596",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 790,
+              "height": 49,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[2]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 40,
+              "y": 431,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-kywt95-83237596"
+            },
+            {
+              "id": "box-id--83237565",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 790,
+              "height": 1317,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/div[3]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 40,
+              "y": 480,
+              "mapping": "unknown",
+              "customBlockName": "aiunknown-kywt95-83237565"
+            },
+            {
+              "id": "box-id--1890692090",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 321,
+              "height": 66,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[2]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 888,
+              "y": 285,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-kywt95-1890692090"
+            },
+            {
+              "id": "box-id--477410189",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 321,
+              "height": 35,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[2]/div[2]/h2[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 888,
+              "y": 381,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-kywt95-477410189"
+            },
+            {
+              "id": "box-id--463676538",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 321,
+              "height": 250,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[2]/div[2]/ul[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 888,
+              "y": 416,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-kywt95-463676538"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

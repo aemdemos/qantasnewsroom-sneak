@@ -1,0 +1,215 @@
+{
+  "url": "https://www.qantasnewsroom.com.au/media-enquiries/",
+  "browserOptions": {
+    "width": 1280,
+    "disableJS": false,
+    "adBlocker": true,
+    "gdprBlocker": true,
+    "delay": 0,
+    "screenshot": false
+  },
+  "autoDetect": true,
+  "template": {
+    "raw": "/html[1]/body[1]/div[2]\n  - /html[1]/body[1]/div[2]/div[1]\n  - /html[1]/body[1]/div[2]/div[2]\n  /html[1]/body[1]/div[3]/header[1]\n  - /html[1]/body[1]/div[3]/header[1]/div[1]/div[1]/a[1]\n  - /html[1]/body[1]/div[3]/header[1]/div[1]/nav[1]/ul[1]\n  /html[1]/body[1]/div[3]/div[1]/div[1]\n  /html[1]/body[1]/div[3]/div[1]/div[2]\n  /html[1]/body[1]/div[3]/div[1]/div[3]\n  - /html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[1]\n  - /html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[2]\n  - /html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[3]\n  - /html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[4]\n  - /html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[5]\n  - /html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[6]\n  - /html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[7]\n  - /html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/input[1]\n  /html[1]/body[1]/footer[1]",
+    "hash": 2114885694
+  },
+  "pageHeight": 913,
+  "mapping": [
+    {
+      "id": 2,
+      "path": "/media-enquiries/index",
+      "sections": [
+        {
+          "id": "2-1",
+          "blocks": [
+            {
+              "id": "box-id-2089301035",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1200,
+              "height": 83,
+              "xpath": "/html[1]/body[1]/div[3]/header[1]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/header[1]/div[1]/div[1]/a[1]",
+                  "xpathWithDetails": "/html[@class=\"wf-europa-n7-active wf-europa-n3-active wf-europa-n4-active wf-active\"]/body[@class=\"page-template page-template-template-media-enquiries page-template-template-media-enquiries-php page page-id-3709\"]/div[@class=\"container\"]/div[@class=\"header-nav\"]/div[@class=\"nav-collapse\"]/a[@class=\"logo\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[3]/header[1]/div[1]/nav[1]/ul[1]",
+                  "xpathWithDetails": "/html[@class=\"wf-europa-n7-active wf-europa-n3-active wf-europa-n4-active wf-active\"]/body[@class=\"page-template page-template-template-media-enquiries page-template-template-media-enquiries-php page page-id-3709\"]/div[@class=\"container\"]/div[@class=\"header-nav\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "x": 40,
+              "y": 157,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-aq76b-2089301035"
+            },
+            {
+              "id": "box-id-2039097760",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 790,
+              "height": 101,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 40,
+              "y": 240,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-aq76b-2039097760"
+            },
+            {
+              "id": "box-id-2039097791",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 381,
+              "height": 351,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[2]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 858,
+              "y": 240,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-aq76b-2039097791"
+            },
+            {
+              "id": "box-id-270101747",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 790,
+              "height": 99,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 40,
+              "y": 372,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-aq76b-270101747"
+            },
+            {
+              "id": "box-id-270101778",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 790,
+              "height": 99,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[2]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 40,
+              "y": 471,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-aq76b-270101778"
+            },
+            {
+              "id": "box-id-270101809",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 790,
+              "height": 99,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[3]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 40,
+              "y": 570,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-aq76b-270101809"
+            },
+            {
+              "id": "box-id-270101840",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 790,
+              "height": 99,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[4]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 40,
+              "y": 669,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-aq76b-270101840"
+            },
+            {
+              "id": "box-id-270101871",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 790,
+              "height": 99,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[5]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 40,
+              "y": 768,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-aq76b-270101871"
+            },
+            {
+              "id": "box-id-270101902",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 790,
+              "height": 218,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[6]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 40,
+              "y": 867,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-aq76b-270101902"
+            },
+            {
+              "id": "box-id-270101933",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 790,
+              "height": 78,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/div[7]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 40,
+              "y": 1115,
+              "mapping": "unknown",
+              "customBlockName": "aiunknown-aq76b-270101933"
+            },
+            {
+              "id": "box-id-1990641626",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 189,
+              "height": 53,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[3]/form[1]/input[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 40,
+              "y": 1223,
+              "mapping": "unknown",
+              "customBlockName": "aiunknown-aq76b-1990641626"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
