@@ -36,7 +36,11 @@
   margin-bottom: 20px;
 }
 
+.block.related-posts p.button-container > a.button:any-link, 
 .block.related-posts a:any-link {
+  margin: 0;
+  padding: 0;
+  background-color: unset;
   color: #1c1d1e;
 }
 

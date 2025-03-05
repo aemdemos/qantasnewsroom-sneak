@@ -4,8 +4,8 @@ This is a project created by AEMY.
 
 ## Environments
 
-- Preview: https://main--paolom-qantasnewsroom-250225--aemdemos.aem.page/
-- Live: https://main--paolom-qantasnewsroom-250225--aemdemos.aem.live/
+- Preview: https://main--qantasnewsroom-sneak--aemdemos.aem.page/
+- Live: https://main--qantasnewsroom-sneak--aemdemos.aem.live/
 
 ## Installation
 
