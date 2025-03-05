@@ -22,6 +22,10 @@
   grid-area: main;
 }
 
+.section.related-posts-container > div:not([class]) {
+  grid-area: main;
+}
+
 .block.related-posts h2 {
   font-size: 15px;
 }
