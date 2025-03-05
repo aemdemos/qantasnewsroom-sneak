@@ -23,6 +23,10 @@
   grid-area: main;
 }
 
+.block.related-posts {
+  width: 320px;
+}
+
 .block.related-posts h2 {
   font-size: 15px;
 }
@@ -67,28 +71,28 @@ div[data-aue-type="richtext"] > ul .icon {
   top: 3px;
 }
 
-div.default-content-wrapper > ul > li:nth-of-type(1),
+main .section div.default-content-wrapper > ul > li:nth-of-type(1),
 div[data-aue-type="richtext"] > ul > li:nth-of-type(1) {
   grid-area: date;
   font-size: 14px;
 }
 
-div.default-content-wrapper > ul > li:nth-of-type(2),
+main .section div.default-content-wrapper > ul > li:nth-of-type(2),
 div[data-aue-type="richtext"] > ul > li:nth-of-type(2) {
   grid-area: icons;
 }
 
-div.default-content-wrapper > ul > li:nth-of-type(3),
+main .section div.default-content-wrapper > ul > li:nth-of-type(3),
 div[data-aue-type="richtext"] > ul > li:nth-of-type(3) {
   grid-area: print;
 }
 
-div.default-content-wrapper > ul a:any-link,
+main .section div.default-content-wrapper > ul a:any-link,
 div[data-aue-type="richtext"] > ul a:any-link {
   color: #1c1d1e;
 }
 
-div.default-content-wrapper > ul > li:nth-of-type(3) a:any-link,
+main .section div.default-content-wrapper > ul > li:nth-of-type(3) a:any-link,
 div[data-aue-type="richtext"] > ul > li:nth-of-type(3) a:any-link {
   color: #565656;
 }
@@ -107,17 +111,28 @@ div[data-aue-type="richtext"] > ul > li > ul > li {
   padding: 0 10px;
 }
 
-div.default-content-wrapper > ul > li > ul > li:nth-of-type(1),
+main .section div.default-content-wrapper > ul > li > ul > li:nth-of-type(1),
 div[data-aue-type="richtext"] > ul > li > ul > li:nth-of-type(1) {
   background-color: #3d5b95;
 }
 
-div.default-content-wrapper > ul > li > ul > li:nth-of-type(2),
+main .section div.default-content-wrapper > ul > li > ul > li:nth-of-type(2),
 div[data-aue-type="richtext"] > ul > li > ul > li:nth-of-type(2) {
   background-color: #24aadd;
 }
 
-div.default-content-wrapper > ul > li > ul > li:nth-of-type(3),
+main .section div.default-content-wrapper > ul > li > ul > li:nth-of-type(3),
 div[data-aue-type="richtext"] > ul > li > ul > li:nth-of-type(3) {
   background-color: #d23e30;
+}
+
+main .section h1 {
+  position: relative;
+  bottom: 72px;
+}
+
+main .section:nth-of-type(2) {
+  margin: 0;
+  position: relative;
+  bottom: 165px;
 }
