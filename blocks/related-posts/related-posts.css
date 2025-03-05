@@ -18,10 +18,7 @@
   font-size: 14px;
 }
 
-.section.related-posts-container .default-content-wrapper {
-  grid-area: main;
-}
-
+.section.related-posts-container .default-content-wrapper,
 .section.related-posts-container > div:not([class]) {
   grid-area: main;
 }
